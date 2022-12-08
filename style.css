@@ -407,6 +407,7 @@ footer .contact a:hover{
 }
 .contact_container .g_map{
     border:10px solid orange;
+    width:80%;
 }
 .contact_container .contact_container{
     padding:20px;
